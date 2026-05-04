@@ -281,4 +281,3 @@ def test_parse_args_update_tariff_flag():
 
     assert args.update_tariff is True
     assert args.octopus_account_number == "A-12345"
-
